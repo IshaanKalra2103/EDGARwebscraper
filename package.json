@@ -1,0 +1,27 @@
+{
+  "name": "fire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "firebase": "^10.5.0",
+    "firebase-tools": "^12.7.0",
+    "puppeteer": "^21.3.8",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "sanitize": "^2.1.2",
+    "sanitize-filename": "^1.6.3",
+    "string-strip-html": "^13.4.3",
+    "strip-html": "^1.0.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
